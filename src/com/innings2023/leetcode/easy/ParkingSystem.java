@@ -43,4 +43,8 @@ public class ParkingSystem {
             throw new IllegalArgumentException();
         }
     }
+
+    public static void main(String[] args) {
+
+    }
 }
